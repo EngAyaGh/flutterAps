@@ -27,7 +27,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  //final _auth = Auth();
+  final _auth = Auth();
 
   @override
   Widget build(BuildContext context) {
